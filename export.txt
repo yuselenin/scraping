@@ -1,0 +1,119 @@
+############################################################
+Curso: Análisis y Diseño de Sistemas IIProfesor: Sullón Macalupu Abel Angel
+==========
+NOTAS:
+==========
+28/03/2017 20.0000% 16.00	Elaboración de Proyecto
+25/04/2017 20.0000%  0.00	Elaboración de Proyecto
+23/05/2017 20.0000%  0.00	Elaboración de Proyecto
+27/06/2017 25.0000%  0.00	Elaboración de Proyecto
+27/06/2017 10.0000%  0.00	Investigación
+27/06/2017  5.0000%  0.00	Aspecto Formativo
+Promedio :   3.00
+==========
+ASISTENCIA:
+==========
+21/03/2017	Tarde	
+############################################################
+Curso: Educación para la Vida VProfesor: Contreras Arapa Ana Maria
+==========
+NOTAS:
+==========
+13/04/2017 20.0000% 20.00	Destrezas Prácticas
+11/05/2017 23.0000%  0.00	Destrezas Prácticas
+15/06/2017 15.0000%  0.00	Exposiciones
+22/06/2017 25.0000%  0.00	Destrezas Prácticas
+29/06/2017 12.0000%  0.00	Trabajo de Investigación
+29/06/2017  5.0000%  0.00	Aspecto Formativo
+Promedio :   4.00
+==========
+ASISTENCIA:
+==========
+############################################################
+Curso: Ingeniería de Software IProfesor: Gómez Apaza Roel Dante
+==========
+NOTAS:
+==========
+05/03/2017  5.0000%  0.00	Exámenes Escritos
+02/04/2017 17.5000%  0.00	Exámenes Escritos
+09/04/2017  7.5000%  0.00	Estudio de Casos
+21/05/2017 17.5000%  0.00	Exámenes Escritos
+21/05/2017  7.5000%  0.00	Estudio de Casos
+18/06/2017  5.0000%  0.00	Exposiciones
+18/06/2017  5.0000%  0.00	Aspecto Formativo
+18/06/2017 12.5000%  0.00	Resumen de Lectura
+25/06/2017  5.0000%  0.00	Proyección Social
+25/06/2017 17.5000%  0.00	Trabajo Productivo
+Promedio :   0.00
+==========
+ASISTENCIA:
+==========
+05/04/2017	Tarde	
+21/04/2017	Tarde	
+############################################################
+Curso: Interpretación Bíblica de la Historia - Daniel Profesor: Villacorta Roca Jorge Isidro
+==========
+NOTAS:
+==========
+17/04/2017 20.0000%  0.00	Trabajo Productivo
+15/05/2017 20.0000%  0.00	Informes
+05/06/2017 20.0000%  0.00	Presentación de Maquetas
+26/06/2017 20.0000%  0.00	Trabajo de Grupo
+26/06/2017 10.0000%  0.00	Aspecto Formativo
+26/06/2017 10.0000%  0.00	Evaluación de Cuadernos de Trabajo
+Promedio :   0.00
+==========
+ASISTENCIA:
+==========
+############################################################
+Curso: Métodos Estadísticos en IngenieríaProfesor: Ticona Condori Madeleine Nanny
+==========
+NOTAS:
+==========
+10/04/2017 25.0000% 11.00	Otro (Práctico)
+15/05/2017 30.0000%  0.00	Otro (Práctico)
+19/06/2017 35.0000%  0.00	Investigación
+26/06/2017  5.0000%  0.00	Extensión Universitaria
+26/06/2017  5.0000%  0.00	Aspecto Formativo
+Promedio :   3.00
+==========
+ASISTENCIA:
+==========
+############################################################
+Curso: Redes Informáticas IProfesor: Condori Coaquira Angel Rosendo
+==========
+NOTAS:
+==========
+11/04/2017 10.0000% 18.00	Exposiciones
+13/04/2017 15.0000%  0.00	Examen Parcial
+27/04/2017 10.0000%  0.00	Sustentación de Trabajos
+11/05/2017 15.0000%  0.00	Examen Parcial
+29/06/2017 15.0000%  0.00	Examen Parcial
+29/06/2017  5.0000%  0.00	Aspecto Formativo
+29/06/2017 20.0000%  0.00	Elaboración de Proyecto
+29/06/2017  5.0000%  0.00	Proyección Social
+29/06/2017  5.0000%  0.00	Informe de Seminarios
+Promedio :   2.00
+==========
+ASISTENCIA:
+==========
+16/03/2017	Falta	
+06/04/2017	Tarde	
+############################################################
+Curso: Sistemas OperativosProfesor: Huanca Torres Fredy Abel
+==========
+NOTAS:
+==========
+06/04/2017 15.0000%  0.00	Evaluación Sumativa
+04/05/2017 15.0000%  0.00	Evaluación Sumativa
+02/06/2017 15.0000%  0.00	Evaluación Sumativa
+26/06/2017  5.0000%  0.00	Proyección Social
+29/06/2017  5.0000%  0.00	Aspecto Formativo
+29/06/2017 15.0000%  0.00	Sustentación de Trabajos
+29/06/2017 15.0000%  0.00	Informe de Laboratorio
+29/06/2017 15.0000%  0.00	Evaluación Sumativa
+Promedio :   0.00
+==========
+ASISTENCIA:
+==========
+24/03/2017	Tarde	
