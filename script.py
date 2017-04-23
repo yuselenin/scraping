@@ -30,7 +30,6 @@ br.select_form('datos')
 br.form['f_usuario'] = args.usuario
 br.form['f_password'] = args.password
 br.submit()
-# r = br.open("https://webapp.upeu.edu.pe/academico/portales/alumno/cursos.jsp?f_carga_id=2016-1")
 r = br.open("https://webapp.upeu.edu.pe/academico/portales/alumno/cursos.jsp")
 print "==============================================================="
 print r.geturl()
@@ -46,7 +45,6 @@ for link in br.links():
         br.form.action = 'https://webapp.upeu.edu.pe/academico/portales/alumno/ver_nota.jsp'
         r = br.submit()
         soup = BeautifulSoup(br.response().read(), "html.parser")
-        # [e.extract() for e in soup.findAll('br')]
         title = soup.find_all('table')[5].find_all('b')[
             0].get_text().split("\n")
         f.write("############################################################\n")
@@ -58,16 +56,12 @@ for link in br.links():
         temp = soup.find_all('table')[7].find_all('tr')
         for row in temp[1:len(temp) - 1]:
             column = row.find_all('td')
-            # print column[0].get_text(), column[2].get_text(),
-            # column[3].get_text(), column[1].b.get_text()
             f.write(column[0].get_text())
             f.write(column[2].get_text())
             f.write(column[3].get_text())
             f.write("\t")
             f.write(column[1].b.get_text())
             f.write("\n")
-        # print temp[len(temp) - 1].td.get_text(), temp[len(temp) -
-        # 1].th.get_text()
         f.write(temp[len(temp) - 1].td.get_text())
         f.write(temp[len(temp) - 1].th.get_text())
         f.write("\n")
@@ -84,23 +78,16 @@ for link in br.links():
             column = row.find_all('td')
             if column[2].img.get('src') == 'img/P.gif':
                 pass
-            #     # print column[1].get_text(), "P"
-            #     f.write(column[1].get_text())
-            #     f.write("\tP\n")
-            if column[2].img.get('src') == 'img/F.gif':
-                # print column[1].get_text(), "Falta"
+            elif column[2].img.get('src') == 'img/F.gif':
                 f.write(column[1].get_text())
                 f.write("\tFalta\t")
                 if len(column[2]) > 3:
-                    # print column[2].input.get('value')
                     f.write(column[2].input.get('value'))
                 f.write("\n")
             elif column[2].img.get('src') == 'img/T.gif':
-                # print column[1].get_text(), "Tarde"
                 f.write(column[1].get_text())
                 f.write("\tTarde\t")
                 if len(column[2]) > 3:
-                    # print column[2].input.get('value')
                     f.write(column[2].input.get('value'))
                 f.write("\n")
             else:
