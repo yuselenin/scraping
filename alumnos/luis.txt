@@ -1,0 +1,69 @@
+############################################################
+Curso: Educación para la Vida VProfesor: Lopez Flores Lino Marcial
+==========
+NOTAS:
+==========
+06/04/2017 13.0000% 14.00	Prácticas de Campo
+27/04/2017 15.0000%  0.00	Prácticas de Campo
+25/05/2017 17.0000%  0.00	Trabajos de Campo
+08/06/2017 20.0000%  0.00	Trabajos de Campo
+15/06/2017 15.0000%  0.00	Exposiciones
+22/06/2017  7.0000%  0.00	Trabajo de Investigación
+29/06/2017  5.0000%  0.00	Aspecto Formativo
+29/06/2017  8.0000%  0.00	Sustentación de Trabajos
+Promedio :   2.00
+############################################################
+Curso: Interpretación Bíblica de la Historia - Daniel Profesor: Arce Ramírez Wilmer Antonio
+==========
+NOTAS:
+==========
+17/04/2017 20.0000%  0.00	Trabajo Productivo
+15/05/2017 20.0000%  0.00	Informes
+05/06/2017 20.0000%  0.00	Presentación de Maquetas
+26/06/2017 20.0000%  0.00	Trabajo de Grupo
+26/06/2017 10.0000%  0.00	Aspecto Formativo
+26/06/2017 10.0000%  0.00	Evaluación de Cuadernos de Trabajo
+Promedio :   0.00
+############################################################
+Curso: Psicología Clínica y de la Salud IProfesor: Peña Castro Oswaldo
+==========
+NOTAS:
+==========
+24/03/2017 10.0000% 16.00	Trabajo de Investigación
+07/04/2017 10.0000% 18.00	Trabajo Productivo
+14/04/2017 10.0000% 16.00	Trabajo Productivo
+21/04/2017 10.0000% 18.00	Exposiciones
+28/04/2017 20.0000%  0.00	Trabajo de Grupo
+26/06/2017 20.0000%  0.00	Prácticas de Campo
+26/06/2017 15.0000%  0.00	Estudio de Casos
+29/06/2017  5.0000%  0.00	Aspecto Formativo
+Promedio :   7.00
+############################################################
+Curso: Psicología ForenseProfesor: Aco Coaguila Guillermina Sonia
+==========
+NOTAS:
+==========
+27/03/2017  5.0000% 15.00	Resúmenes Críticos
+29/03/2017 10.0000% 14.00	Sustentación de Trabajos
+03/04/2017 10.0000% 15.00	Trabajo Productivo
+17/04/2017 15.0000% 15.00	Sustentación de Trabajos
+08/05/2017 10.0000%  0.00	Sustentación de Trabajos
+30/05/2017 20.0000%  0.00	Investigación
+12/06/2017 10.0000%  0.00	Trabajo Productivo
+26/06/2017  5.0000%  0.00	Aspecto Formativo
+26/06/2017 15.0000%  0.00	Estudio de Casos
+Promedio :   6.00
+############################################################
+Curso: Terapias PsicológicasProfesor: Mendocilla Chávez Miguel Angel
+==========
+NOTAS:
+==========
+27/03/2017  5.0000%  0.00	Análisis de Lecturas
+10/04/2017 10.0000%  0.00	No Asigno
+17/04/2017 10.0000%  0.00	Prácticas Calificadas
+12/06/2017 20.0000%  0.00	Estudio de Casos
+26/06/2017 20.0000%  0.00	Prácticas Calificadas
+26/06/2017 20.0000%  0.00	Prácticas de Campo
+29/06/2017 10.0000%  0.00	Investigación
+29/06/2017  5.0000%  0.00	Aspecto Formativo
+Promedio :   0.00
